@@ -39,10 +39,11 @@ Below is the list of files from the raw dataset which are used in this analysis
 
 ####Guide to create the tidy data file
 1. Download the source data zip file using the link provided.
-2. Unzip this file into the working directory, maintaining the original folder stucture.
-3. Ensure run_analysis.R file is in this working directory. You may need to copy this file into this directory if necessary.
-4. run_analysis.R is seperated into few sections. Run all sections.
-5. The resulting dataset will be exported into result.txt
+2. Unzip this file into a temporary directory, maintaining the original folder stucture.
+3. Copy the 8 files listed above into the working directory, still maintaining the original folder structure.
+4. Ensure run_analysis.R file is in this working directory. You may need to copy this file into this directory if necessary.
+5. run_analysis.R is seperated into few sections. Run all sections.
+6. The resulting dataset will be exported into result.txt
 
 ####Cleaning of the data
 The R Code is located here
